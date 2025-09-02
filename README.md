@@ -17,15 +17,15 @@ A machine learning project that recommends the best crop to grow based on soil a
 ---
 
 ## 📦 Project Structure  
-crop-recommendation-system/
-├── templates/ # HTML templates for Flask app
-│ └── index.html
-├── static/ # CSS, JS, images
-├── crop_recommendation.ipynb # Jupyter Notebook with model & analysis
-├── model.pkl # Saved Random Forest model
-├── app.py # Flask web application
-├── requirements.txt # Required dependencies
-└── README.md # Project documentation
+crop-recommendation-system/ <br/>
+├── templates/ # HTML templates for Flask app  <br/>
+│ └── index.html  <br/>
+├── static/ # CSS, JS, images  <br/>
+├── crop_recommendation.ipynb # Jupyter Notebook with model & analysis  <br/>
+├── model.pkl # Saved Random Forest model  <br/>
+├── app.py # Flask web application  <br/>
+├── requirements.txt # Required dependencies  <br/>
+└── README.md # Project documentation  <br/>
 
 ---
 
